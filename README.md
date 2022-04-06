@@ -221,15 +221,15 @@ N=4                   # k-fold  x 10
 * GTOS dataset:
 
 ```bash
-a="GTOS"               # dataset name
-N=5                    # k-fold
+a="GTOS"              # dataset name
+N=5                   # k-fold
 ```
 
 * GTOSM dataset:
 
 ```bash
-a="GTOSM"               # dataset name
-N=1                  # k-fold
+a="GTOSM"             # dataset name
+N=1                   # k-fold  x 2
 ```
 
 Then run:
