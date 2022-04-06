@@ -1,0 +1,13 @@
+train_1: sample_a, sample_b, sample_c	
+test_1: sample_d
+
+train_2: sample_a, sample_b, sample_d	
+test_2: sample_c
+
+train_3: sample_a, sample_c, sample_d	
+test_3: sample_b
+
+train_4: sample_b, sample_c, sample_d	
+test_4: sample_a
+
+We trained in each of the four settings(_1, _2, _3, _4) and eventually averaged the results. A total of 10 runs are repeated and the average of the 10 results is taken as the final result.
