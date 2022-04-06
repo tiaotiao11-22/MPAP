@@ -215,14 +215,14 @@ N=10                  # k-fold
 
 ```bash
 a="KTH"               # dataset name
-N=10                  # k-fold
+N=4                   # k-fold  x 10
 ```
 
 * GTOS dataset:
 
 ```bash
 a="GTOS"               # dataset name
-N=5                  # k-fold
+N=5                    # k-fold
 ```
 
 * GTOSM dataset:
