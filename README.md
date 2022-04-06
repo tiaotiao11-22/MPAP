@@ -1,6 +1,5 @@
 # Texture Classification
-asdf
-:
+
 PyTorch implementation of On Exploring Multiplicity of Primitives and Attributes for Texture Recognition in the Wild.
 
 > **Authors:** 
