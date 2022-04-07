@@ -195,48 +195,13 @@ python MPAPNet_test.py --dataset DTD --fold 1 --tag 10 --batch_size 128 --accumu
 
 ## Cross-Validation:
 
-To do cross-validation, run `train_test_MPAP.sh`, you need to give:
+To do cross-validation, you should create the folder `Result` in the root directory
 
-* DTD dataset:
-
-```bash
-a="DTD"               # dataset name
-N=10                  # k-fold
-```
-
-* FMD dataset:
-
-```bash
-a="FMD"               # dataset name
-N=10                  # k-fold
-```
-
-* KTH dataset:
-
-```bash
-a="KTH"               # dataset name
-N=4                   # k-fold  x 10
-```
-
-* GTOS dataset:
-
-```bash
-a="GTOS"              # dataset name
-N=5                   # k-fold
-```
-
-* GTOSM dataset:
-
-```bash
-a="GTOSM"             # dataset name
-N=1                   # k-fold  x 2
-```
-
-Then run:
+Then run `train_test_MPAP.sh`, you need to give:
 
 ```bash
 sh train_test_MPAP.sh
-tag:#0
+Enter Dataset Name: #dataset name: DTD, KTH, FMD, GTOS, GTOSM
 ```
 
 ## Results
