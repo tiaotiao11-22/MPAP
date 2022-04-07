@@ -213,14 +213,6 @@ Enter Dataset Name: #dataset name: DTD, KTH, FMD, GTOS, GTOSM
     </em>
 </p>
 
-## Style Transfer
-
-Style transfer image generation. In this paper, we use a classical method [https://arxiv.org/pdf/1508.06576.pdf](https://arxiv.org/pdf/1508.06576.pdf) as our baseline method:
-
-```bash
-python StyleTransfer.py --loadour --content // --style //
-```
-
 ## Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact [wzhai056@mail.ustc.edu.cn](wzhai056@mail.ustc.edu.cn).
 
