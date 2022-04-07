@@ -241,7 +241,7 @@ This project is for research purpose only, please contact us for the licence of 
 ```bash
 @inproceedings{zhai2022on,
   title={On exploring multiplicity of primitives and attributes for texture recognition in the wild},
-  author={Zhai, Wei and Cao, Yang and Zhang, Jing and Zha, Zheng-Jun and Xie, Haiyong and Tao, Dacheng},
+  author={Zhai, Wei and Cao, Yang and Zhang, Jing and Xie, Haiyong and Tao, Dacheng and Zha, Zheng-Jun},
   booktitle={xxx},
   year={2022}
 }
