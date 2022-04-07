@@ -7,8 +7,8 @@ PyTorch implementation of On Exploring Multiplicity of Primitives and Attributes
 > Yang Cao, 
 > Jing Zhang, 
 > Haiyong Xie, 
-> Zheng-Jun Zha &
-> Dacheng Tao.
+> Dacheng Tao &
+> Zheng-Jun Zha.
 
 ## Contents
 
@@ -239,10 +239,10 @@ This project is for research purpose only, please contact us for the licence of 
 ```
 
 ```bash
-@inproceedings{xx,
+@inproceedings{zhai2022on,
   title={On exploring multiplicity of primitives and attributes for texture recognition in the wild},
   author={Zhai, Wei and Cao, Yang and Zhang, Jing and Zha, Zheng-Jun and Xie, Haiyong and Tao, Dacheng},
   booktitle={xxx},
-  year={xxx}
+  year={2022}
 }
 ```
