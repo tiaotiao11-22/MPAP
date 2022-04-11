@@ -75,6 +75,8 @@ Texture recognition is a challenging visual task since its multiple primitives o
 	├── Network
 	│   ├── Deform_Conv.py
 	│   ├── LabelSmoothingLoss.py
+	│   ├── MAP_network.py
+	│   ├── DSR_network.py
 	│   └── MPAP_network.py
 	├── StyleTransferImage
 	│   ├── content
