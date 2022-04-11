@@ -78,9 +78,6 @@ Texture recognition is a challenging visual task since its multiple primitives o
 	│   ├── MAP_network.py
 	│   ├── DSR_network.py
 	│   └── MPAP_network.py
-	├── StyleTransferImage
-	│   ├── content
-	│   └── style
 	├── Util
 	│   ├── AUG.py
 	│   └── lr_scheduler.py
@@ -88,9 +85,7 @@ Texture recognition is a challenging visual task since its multiple primitives o
 	├── Count.py
 	├── ECE_test.py
 	├── FGSM.py
-	├── MPAPNet.py
 	├── README.md
-	├── StyleTransfer.py
 	├── train_test_MPAP.sh
 	└── transforms.py
 
