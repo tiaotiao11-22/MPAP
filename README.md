@@ -217,7 +217,7 @@ This project is for research purpose only, please contact us for the licence of 
 
 ```bash
 @inproceedings{zhai2020deep,
-  title={Deep Structure-Revealed Network for Texture Recognition},
+  title={Deep structure-revealed network for texture recognition},
   author={Zhai, Wei and Cao, Yang and Zha, Zheng-Jun and Xie, HaiYong and Wu, Feng},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={11010--11019},
