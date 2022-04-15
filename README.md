@@ -125,8 +125,7 @@ usage: MPAPNet_test.py [-h] [--dataset DATASET] [--backbone BACKBONE]
                        [--distributedsampler] [--no_cuda] [--log_interval N]
                        [--tsne] [--cm] [--ece] [--cam]
                        [--local_rank LOCAL_RANK] [--init_method INIT_METHOD]
-                       [--rank RANK] [--word_size WORD_SIZE] [--FGSM] [--PGD]
-                       [--adv_iter ADV_ITER] [--bins BINS]
+                       [--rank RANK] [--word_size WORD_SIZE] [--bins BINS]
                        [--randcutPtest RANDCUTPTEST]
                        [--cutoutsizetest CUTOUTSIZETEST] [--noncenter]
 
@@ -167,17 +166,10 @@ optional arguments:
   --distributedsampler              # enables distributed sampler
   --no_cuda                         # enables CUDA training
   --log_interval N                  # how many batches to wait before logging training status
-  --tsne                            # show the result of tsne
-  --cm                              # show the confusion matrix
-  --ece                             # show the result of ece
-  --cam                             # show the class activation map
   --local_rank LOCAL_RANK
   --init_method INIT_METHOD 
   --rank RANK                       # rank of current process
   --word_size WORD_SIZE             # word size
-  --FGSM                            # evalute FGSM robustness
-  --PGD                             # evalute PGD robustness
-  --adv_iter ADV_ITER               # PGD iters
   --bins BINS
   --randcutPtest RANDCUTPTEST       # Random Cutout Test
   --cutoutsizetest CUTOUTSIZETEST   # The mask size of random cutout test
