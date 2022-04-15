@@ -187,7 +187,7 @@ optional arguments:
 To train a model, run `Train.py` with the desired model:
 
 ```bash
-python MPAPNet_test.py --dataset DTD --fold 1 --tag 10 --batch_size 128 --accumulation_steps 1 --test_batch_size 8 --epochs 200 --labelsmoothing --a 0.5 --b 0.3 --c 0.2 --backbone resnet50 --lr 0.001
+python MPAPNet.py --dataset DTD --fold 1 --tag 10 --batch_size 128 --accumulation_steps 1 --test_batch_size 8 --epochs 200 --labelsmoothing --a 0.5 --b 0.3 --c 0.2 --backbone resnet50 --lr 0.001
 ```
 
 ## Cross-Validation:
