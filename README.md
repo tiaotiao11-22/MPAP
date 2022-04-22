@@ -84,7 +84,6 @@ Texture recognition is a challenging visual task since its multiple primitives o
 	├── classification_image_loader.py
 	├── Count.py
 	├── ECE_test.py
-	├── FGSM.py
 	├── README.md
 	├── train_test_MPAP.sh
 	└── transforms.py
